@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 f87518f045772aa2160418e3fcdcf830965c4a0a Nikhil Thomas <ncoder@iam.ironman> 1574996507 +0530	commit (initial): first commit
+f87518f045772aa2160418e3fcdcf830965c4a0a f87518f045772aa2160418e3fcdcf830965c4a0a Nikhil Thomas <ncoder@iam.ironman> 1574996628 +0530	reset: moving to HEAD
+f87518f045772aa2160418e3fcdcf830965c4a0a f87518f045772aa2160418e3fcdcf830965c4a0a git stash <git@stash> 1574996668 +0530	reset: moving to HEAD
+f87518f045772aa2160418e3fcdcf830965c4a0a f87518f045772aa2160418e3fcdcf830965c4a0a Nikhil Thomas <ncoder@iam.ironman> 1574996674 +0530	rebase -i (start): checkout HEAD
+f87518f045772aa2160418e3fcdcf830965c4a0a f87518f045772aa2160418e3fcdcf830965c4a0a Nikhil Thomas <ncoder@iam.ironman> 1574996674 +0530	rebase -i (finish): returning to refs/heads/master
+f87518f045772aa2160418e3fcdcf830965c4a0a 89093adc3ce41ec634a2c1950ccdfd04e6c60f28 Nikhil Thomas <ncoder@iam.ironman> 1574996780 +0530	commit: file1 updated
