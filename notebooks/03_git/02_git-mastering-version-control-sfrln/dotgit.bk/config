@@ -3,3 +3,7 @@
 	filemode = true
 	bare = false
 	logallrefupdates = true
+[user]
+	name = Nikhil Thomas
+[alias]
+	gtree = git log --oneline --graph --all --decorate

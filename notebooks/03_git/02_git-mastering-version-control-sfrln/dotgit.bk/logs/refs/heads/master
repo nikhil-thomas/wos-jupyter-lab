@@ -1,2 +1,4 @@
 0000000000000000000000000000000000000000 f87518f045772aa2160418e3fcdcf830965c4a0a Nikhil Thomas <ncoder@iam.ironman> 1574996507 +0530	commit (initial): first commit
 f87518f045772aa2160418e3fcdcf830965c4a0a 89093adc3ce41ec634a2c1950ccdfd04e6c60f28 Nikhil Thomas <ncoder@iam.ironman> 1574996780 +0530	commit: file1 updated
+89093adc3ce41ec634a2c1950ccdfd04e6c60f28 ed46cafd70fd71f4951612eeb9bb6d53e2b253df Nikhil Thomas <ncoder@iam.ironman> 1575255242 +0530	commit: edit file1 on master
+ed46cafd70fd71f4951612eeb9bb6d53e2b253df 595bae6e92b8821b82b280ae9a536bbeedb4e97c Nikhil Thomas <ncoder@iam.ironman> 1575255742 +0530	commit: create conflict master
