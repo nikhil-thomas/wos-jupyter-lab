@@ -1,5 +1,0 @@
-0000000000000000000000000000000000000000 89093adc3ce41ec634a2c1950ccdfd04e6c60f28 Nikhil Thomas <ncoder@iam.ironman> 1575253411 +0530	branch: Created from HEAD
-89093adc3ce41ec634a2c1950ccdfd04e6c60f28 5af88845330033a1a7c734ed0bbf96c421046230 Nikhil Thomas <ncoder@iam.ironman> 1575253473 +0530	commit: commit on new branch
-5af88845330033a1a7c734ed0bbf96c421046230 159d23b70e6ee060054104d4c46e401a4c85084c Nikhil Thomas <ncoder@iam.ironman> 1575255577 +0530	merge master: Merge made by the 'recursive' strategy.
-159d23b70e6ee060054104d4c46e401a4c85084c 586ae125040dce26235217282c2fac5d3843f1c8 Nikhil Thomas <ncoder@iam.ironman> 1575255864 +0530	commit: create conflict on newbranch
-586ae125040dce26235217282c2fac5d3843f1c8 357baafed00fc7118e6234cef7062d1666bdc33c Nikhil Thomas <ncoder@iam.ironman> 1575256096 +0530	commit (merge): conflict resolved

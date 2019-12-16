@@ -1,0 +1,47 @@
+0000000000000000000000000000000000000000 f87518f045772aa2160418e3fcdcf830965c4a0a Nikhil Thomas <ncoder@iam.ironman> 1574996507 +0530	commit (initial): first commit
+f87518f045772aa2160418e3fcdcf830965c4a0a f87518f045772aa2160418e3fcdcf830965c4a0a Nikhil Thomas <ncoder@iam.ironman> 1574996628 +0530	reset: moving to HEAD
+f87518f045772aa2160418e3fcdcf830965c4a0a f87518f045772aa2160418e3fcdcf830965c4a0a git stash <git@stash> 1574996668 +0530	reset: moving to HEAD
+f87518f045772aa2160418e3fcdcf830965c4a0a f87518f045772aa2160418e3fcdcf830965c4a0a Nikhil Thomas <ncoder@iam.ironman> 1574996674 +0530	rebase -i (start): checkout HEAD
+f87518f045772aa2160418e3fcdcf830965c4a0a f87518f045772aa2160418e3fcdcf830965c4a0a Nikhil Thomas <ncoder@iam.ironman> 1574996674 +0530	rebase -i (finish): returning to refs/heads/master
+f87518f045772aa2160418e3fcdcf830965c4a0a 89093adc3ce41ec634a2c1950ccdfd04e6c60f28 Nikhil Thomas <ncoder@iam.ironman> 1574996780 +0530	commit: file1 updated
+89093adc3ce41ec634a2c1950ccdfd04e6c60f28 89093adc3ce41ec634a2c1950ccdfd04e6c60f28 git stash <git@stash> 1575253350 +0530	reset: moving to HEAD
+89093adc3ce41ec634a2c1950ccdfd04e6c60f28 89093adc3ce41ec634a2c1950ccdfd04e6c60f28 Nikhil Thomas <ncoder@iam.ironman> 1575253411 +0530	checkout: moving from master to newbranch
+89093adc3ce41ec634a2c1950ccdfd04e6c60f28 5af88845330033a1a7c734ed0bbf96c421046230 Nikhil Thomas <ncoder@iam.ironman> 1575253473 +0530	commit: commit on new branch
+5af88845330033a1a7c734ed0bbf96c421046230 89093adc3ce41ec634a2c1950ccdfd04e6c60f28 Nikhil Thomas <ncoder@iam.ironman> 1575253485 +0530	checkout: moving from newbranch to master
+89093adc3ce41ec634a2c1950ccdfd04e6c60f28 89093adc3ce41ec634a2c1950ccdfd04e6c60f28 Nikhil Thomas <ncoder@iam.ironman> 1575253499 +0530	checkout: moving from master to b2
+89093adc3ce41ec634a2c1950ccdfd04e6c60f28 29a07f2950868c696532ecb61ed53a92e78e3311 Nikhil Thomas <ncoder@iam.ironman> 1575253550 +0530	commit: file2 commit
+29a07f2950868c696532ecb61ed53a92e78e3311 89093adc3ce41ec634a2c1950ccdfd04e6c60f28 Nikhil Thomas <ncoder@iam.ironman> 1575253608 +0530	checkout: moving from b2 to master
+89093adc3ce41ec634a2c1950ccdfd04e6c60f28 5af88845330033a1a7c734ed0bbf96c421046230 Nikhil Thomas <ncoder@iam.ironman> 1575254716 +0530	checkout: moving from master to newbranch
+5af88845330033a1a7c734ed0bbf96c421046230 5af88845330033a1a7c734ed0bbf96c421046230 Nikhil Thomas <ncoder@iam.ironman> 1575255173 +0530	checkout: moving from newbranch to newbranch
+5af88845330033a1a7c734ed0bbf96c421046230 89093adc3ce41ec634a2c1950ccdfd04e6c60f28 Nikhil Thomas <ncoder@iam.ironman> 1575255181 +0530	checkout: moving from newbranch to master
+89093adc3ce41ec634a2c1950ccdfd04e6c60f28 ed46cafd70fd71f4951612eeb9bb6d53e2b253df Nikhil Thomas <ncoder@iam.ironman> 1575255242 +0530	commit: edit file1 on master
+ed46cafd70fd71f4951612eeb9bb6d53e2b253df 5af88845330033a1a7c734ed0bbf96c421046230 Nikhil Thomas <ncoder@iam.ironman> 1575255261 +0530	checkout: moving from master to newbranch
+5af88845330033a1a7c734ed0bbf96c421046230 5af88845330033a1a7c734ed0bbf96c421046230 Nikhil Thomas <ncoder@iam.ironman> 1575255573 +0530	reset: moving to HEAD
+5af88845330033a1a7c734ed0bbf96c421046230 159d23b70e6ee060054104d4c46e401a4c85084c Nikhil Thomas <ncoder@iam.ironman> 1575255577 +0530	merge master: Merge made by the 'recursive' strategy.
+159d23b70e6ee060054104d4c46e401a4c85084c ed46cafd70fd71f4951612eeb9bb6d53e2b253df Nikhil Thomas <ncoder@iam.ironman> 1575255616 +0530	checkout: moving from newbranch to master
+ed46cafd70fd71f4951612eeb9bb6d53e2b253df 595bae6e92b8821b82b280ae9a536bbeedb4e97c Nikhil Thomas <ncoder@iam.ironman> 1575255742 +0530	commit: create conflict master
+595bae6e92b8821b82b280ae9a536bbeedb4e97c 159d23b70e6ee060054104d4c46e401a4c85084c Nikhil Thomas <ncoder@iam.ironman> 1575255755 +0530	checkout: moving from master to newbranch
+159d23b70e6ee060054104d4c46e401a4c85084c 586ae125040dce26235217282c2fac5d3843f1c8 Nikhil Thomas <ncoder@iam.ironman> 1575255864 +0530	commit: create conflict on newbranch
+586ae125040dce26235217282c2fac5d3843f1c8 357baafed00fc7118e6234cef7062d1666bdc33c Nikhil Thomas <ncoder@iam.ironman> 1575256096 +0530	commit (merge): conflict resolved
+357baafed00fc7118e6234cef7062d1666bdc33c 595bae6e92b8821b82b280ae9a536bbeedb4e97c Nikhil Thomas <ncoder@iam.ironman> 1576288948 +0530	checkout: moving from newbranch to master
+595bae6e92b8821b82b280ae9a536bbeedb4e97c 357baafed00fc7118e6234cef7062d1666bdc33c Nikhil Thomas <ncoder@iam.ironman> 1576288962 +0530	checkout: moving from master to newbranch
+357baafed00fc7118e6234cef7062d1666bdc33c 586ae125040dce26235217282c2fac5d3843f1c8 Nikhil Thomas <ncoder@iam.ironman> 1576289942 +0530	reset: moving to 586ae12
+586ae125040dce26235217282c2fac5d3843f1c8 055fb6f580a0eb870548360b9b532b29cc5016ec Nikhil Thomas <ncoder@iam.ironman> 1576290172 +0530	commit: empty commit
+055fb6f580a0eb870548360b9b532b29cc5016ec a0186ee04b1f458983073326b31e68acc14e3fda Nikhil Thomas <ncoder@iam.ironman> 1576290190 +0530	commit: empty commit
+a0186ee04b1f458983073326b31e68acc14e3fda 586ae125040dce26235217282c2fac5d3843f1c8 Nikhil Thomas <ncoder@iam.ironman> 1576290221 +0530	reset: moving to HEAD~2
+586ae125040dce26235217282c2fac5d3843f1c8 97f78a77b11557dcc0c663423ba94c0473d9c6b0 Nikhil Thomas <ncoder@iam.ironman> 1576290294 +0530	commit: date 1
+97f78a77b11557dcc0c663423ba94c0473d9c6b0 e882689e007a665e9f3f721c32ee47a6e20f320e Nikhil Thomas <ncoder@iam.ironman> 1576290490 +0530	commit: date 2
+e882689e007a665e9f3f721c32ee47a6e20f320e 586ae125040dce26235217282c2fac5d3843f1c8 Nikhil Thomas <ncoder@iam.ironman> 1576290508 +0530	reset: moving to HEAD~2
+586ae125040dce26235217282c2fac5d3843f1c8 98ea5b4a366c19cc0e8fa393dc6f39a0bded2807 Nikhil Thomas <ncoder@iam.ironman> 1576290568 +0530	commit: date 1
+98ea5b4a366c19cc0e8fa393dc6f39a0bded2807 730fc893a7508aa372ff5ab9dd25592485e36c0d Nikhil Thomas <ncoder@iam.ironman> 1576290590 +0530	commit: date 2
+730fc893a7508aa372ff5ab9dd25592485e36c0d 586ae125040dce26235217282c2fac5d3843f1c8 Nikhil Thomas <ncoder@iam.ironman> 1576290598 +0530	reset: moving to HEAD~2
+586ae125040dce26235217282c2fac5d3843f1c8 0ac347c4ede1180dad9bce2360adaad527ff646a Nikhil Thomas <ncoder@iam.ironman> 1576292287 +0530	commit (cherry-pick): cherry-pick
+0ac347c4ede1180dad9bce2360adaad527ff646a 2518e24f8a9847abb0f193a7f72dafc5bd8fa065 Nikhil Thomas <ncoder@iam.ironman> 1576292365 +0530	commit: notebook updates
+2518e24f8a9847abb0f193a7f72dafc5bd8fa065 fb4b5e4aa21b0f249a9adb9e276de9e9bd00d75b Nikhil Thomas <ncoder@iam.ironman> 1576292430 +0530	commit: add dotgit
+fb4b5e4aa21b0f249a9adb9e276de9e9bd00d75b 50e1ef26cbfc59a50152649986bb7485df4070c4 Nikhil Thomas <ncoder@iam.ironman> 1576292504 +0530	commit: remove dotgit dir
+50e1ef26cbfc59a50152649986bb7485df4070c4 595bae6e92b8821b82b280ae9a536bbeedb4e97c Nikhil Thomas <ncoder@iam.ironman> 1576292517 +0530	checkout: moving from newbranch to master
+595bae6e92b8821b82b280ae9a536bbeedb4e97c 093b989fbc682cec58b5524df08ac42d8e1ae391 Nikhil Thomas <ncoder@iam.ironman> 1576292583 +0530	commit: cp1
+093b989fbc682cec58b5524df08ac42d8e1ae391 9250bf0b9a4132d32585669855ea253d5a2e1712 Nikhil Thomas <ncoder@iam.ironman> 1576292619 +0530	commit: cp2
+9250bf0b9a4132d32585669855ea253d5a2e1712 e1ca96b2aac7ad0da8ab3ebe8a9ad736796beb79 Nikhil Thomas <ncoder@iam.ironman> 1576292629 +0530	commit: cp3
+e1ca96b2aac7ad0da8ab3ebe8a9ad736796beb79 beff5008535545a6e598c80e99cc7488574da39b Nikhil Thomas <ncoder@iam.ironman> 1576292709 +0530	commit: notebook updates
+beff5008535545a6e598c80e99cc7488574da39b 50e1ef26cbfc59a50152649986bb7485df4070c4 Nikhil Thomas <ncoder@iam.ironman> 1576292715 +0530	checkout: moving from master to newbranch

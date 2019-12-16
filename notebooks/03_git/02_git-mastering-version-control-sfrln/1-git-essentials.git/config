@@ -1,0 +1,6 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = /home/ncoder/02_wos/jupyter-lab/notebooks/03_git/02_git-mastering-version-control-sfrln/1-git-essentials

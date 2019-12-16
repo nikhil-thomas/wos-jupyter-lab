@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	name = Nikhil Thomas
+[alias]
+	gtree = log --oneline --graph --all --decorate
+	l = log
+	lg = log
