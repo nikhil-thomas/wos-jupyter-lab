@@ -1,0 +1,3 @@
+[submodule "notebooks/03_git/02_git-mastering-version-control-sfrln/2-2-git-version-control-cookbook/notebooks/03_git/02_git-mastering-version-control-sfrln/2-2-git-version-control-cookbook/data-model"]
+	path = notebooks/03_git/02_git-mastering-version-control-sfrln/2-2-git-version-control-cookbook/notebooks/03_git/02_git-mastering-version-control-sfrln/2-2-git-version-control-cookbook/data-model
+	url = https://github.com/dvaske/data-model.git
